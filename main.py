@@ -62,7 +62,7 @@ class Snake:
             self.y[0] += SIZE
 
         self.draw()
-
+ghff
 
 
 
