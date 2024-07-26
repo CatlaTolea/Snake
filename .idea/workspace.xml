@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7aa166e-b384-4277-b216-0c63cc1b06cb" name="Changes" comment="Going to create a snake game.&#10;&#10;Added a basic surface, loaded a block and created draw function to draw it and then move it.&#10;Changed everything in OOP to make it more readable and easier to understand.&#10;Made the bolck to move in every direction by itself, we chose direction and it moves.&#10;Made the snalke longer and worte hoee the bolcks will move.&#10;Also draw the apple">
+    <list default="true" id="b7aa166e-b384-4277-b216-0c63cc1b06cb" name="Changes" comment="Going to create a snake game.&#10;&#10;Added a basic surface, loaded a block and created draw function to draw it and then move it.&#10;Changed everything in OOP to make it more readable and easier to understand.&#10;Made the bolck to move in every direction by itself, we chose direction and it moves.&#10;Made the snalke longer and worte hoee the bolcks will move.&#10;Also draw the apple.&#10;Added score and collision fucntion,">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -30,14 +30,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;1st__branch&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "1st__branch",
+    "ignore.virus.scanning.warn.message": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Snake_game" />
@@ -148,7 +149,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721842570769</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Going to create a snake game.&#10;&#10;Added a basic surface, loaded a block and created draw function to draw it and then move it.&#10;Changed everything in OOP to make it more readable and easier to understand.&#10;Made the bolck to move in every direction by itself, we chose direction and it moves.&#10;Made the snalke longer and worte hoee the bolcks will move.&#10;Also draw the apple.&#10;Added score and collision fucntion,">
+      <option name="closed" value="true" />
+      <created>1721845342976</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1721845342976</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -157,6 +166,7 @@
     <MESSAGE value="Going to create a snake game.&#10;&#10;Added a basic surface, loaded a block and created draw function to draw it and then move it.&#10;Changed everything in OOP to make it more readable and easier to understand." />
     <MESSAGE value="Going to create a snake game.&#10;&#10;Added a basic surface, loaded a block and created draw function to draw it and then move it.&#10;Changed everything in OOP to make it more readable and easier to understand.&#10;Made the bolck to move in every direction by itself, we chose direction and it moves." />
     <MESSAGE value="Going to create a snake game.&#10;&#10;Added a basic surface, loaded a block and created draw function to draw it and then move it.&#10;Changed everything in OOP to make it more readable and easier to understand.&#10;Made the bolck to move in every direction by itself, we chose direction and it moves.&#10;Made the snalke longer and worte hoee the bolcks will move.&#10;Also draw the apple" />
-    <option name="LAST_COMMIT_MESSAGE" value="Going to create a snake game.&#10;&#10;Added a basic surface, loaded a block and created draw function to draw it and then move it.&#10;Changed everything in OOP to make it more readable and easier to understand.&#10;Made the bolck to move in every direction by itself, we chose direction and it moves.&#10;Made the snalke longer and worte hoee the bolcks will move.&#10;Also draw the apple" />
+    <MESSAGE value="Going to create a snake game.&#10;&#10;Added a basic surface, loaded a block and created draw function to draw it and then move it.&#10;Changed everything in OOP to make it more readable and easier to understand.&#10;Made the bolck to move in every direction by itself, we chose direction and it moves.&#10;Made the snalke longer and worte hoee the bolcks will move.&#10;Also draw the apple.&#10;Added score and collision fucntion," />
+    <option name="LAST_COMMIT_MESSAGE" value="Going to create a snake game.&#10;&#10;Added a basic surface, loaded a block and created draw function to draw it and then move it.&#10;Changed everything in OOP to make it more readable and easier to understand.&#10;Made the bolck to move in every direction by itself, we chose direction and it moves.&#10;Made the snalke longer and worte hoee the bolcks will move.&#10;Also draw the apple.&#10;Added score and collision fucntion," />
   </component>
 </project>
